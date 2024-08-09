@@ -1,0 +1,1 @@
+# side_protocol_how_to_become_a_validator
